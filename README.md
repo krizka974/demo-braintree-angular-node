@@ -1,4 +1,4 @@
-https://travis-ci.org/krizka974/demo-braintree-angular-node.svg?branch=master
+[![Build Status](https://travis-ci.org/krizka974/demo-braintree-angular-node.svg?branch=master)](https://travis-ci.org/krizka974/demo-braintree-angular-node)
 
 # demo-braintree-angular-node
 Transaction sale with Angular Material (server in Node, client with Angular using dropin and custom integration)
