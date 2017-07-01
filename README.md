@@ -1,3 +1,5 @@
+https://travis-ci.org/krizka974/demo-braintree-angular-node.svg?branch=master
+
 # demo-braintree-angular-node
 Transaction sale with Angular Material (server in Node, client with Angular using dropin and custom integration)
 
